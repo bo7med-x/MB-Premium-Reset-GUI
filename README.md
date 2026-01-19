@@ -1,5 +1,3 @@
-# Change Windows Machine GUID
-
 ## Steps
 
 1. Press **[Win] + [R]**
