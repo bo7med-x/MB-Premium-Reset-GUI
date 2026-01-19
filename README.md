@@ -7,3 +7,4 @@
    ```powershell
    powershell -Command "New-Guid | ForEach-Object { Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Cryptography' -Name 'MachineGuid' -Value $_.Guid }"
    ```
+3. Press **Enter**
