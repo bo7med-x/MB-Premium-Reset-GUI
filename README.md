@@ -1,6 +1,6 @@
 # Steps
 
-## Download Malwarebytes
+## 0. Download Malwarebytes
 - FYI: If Malwarebytes is already installed on your system, then skip this step.
 - Download link: [MBSetup.exe](https://data-cdn.mbamupdates.com/web/mb5-setup-consumer/MBSetup.exe)
 
