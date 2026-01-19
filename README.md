@@ -2,7 +2,7 @@
 
 ## Download Malwarebytes
 - FYI: If Malwarebytes is already installed on your system, then skip this step.
-- [Download: MBSetup.exe](https://data-cdn.mbamupdates.com/web/mb5-setup-consumer/MBSetup.exe)
+- Download link: [MBSetup.exe](https://data-cdn.mbamupdates.com/web/mb5-setup-consumer/MBSetup.exe)
 
 ## 1. Quit Malwarebytes
 <img width="1129" height="736" alt="image" src="https://github.com/user-attachments/assets/d95eb02f-b5c3-400c-b0e4-a820d283e6f7" />
