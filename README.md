@@ -23,6 +23,8 @@ pip install customtkinter pillow pyinstaller
 ### Compile to .exe
 ```cmd
 cd gui
+```
+```cmd
 pyinstaller --onefile --noconsole --icon=icon.ico --add-data "icon.ico;." --add-data "background.png;." MBResetX.py
 ```
 
