@@ -11,6 +11,25 @@ The original `.bat` file is kept in this repo as a reference to the source.
 
 ---
 
+## Build
+
+### Requirements
+- Python 3.10+
+- Install dependencies:
+```cmd
+pip install customtkinter pillow pyinstaller
+```
+
+### Compile to .exe
+```cmd
+cd gui
+pyinstaller --onefile --noconsole --icon=icon.ico --add-data "icon.ico;." --add-data "background.png;." MBResetX.py
+```
+
+The `.exe` will be in `gui/dist/MBResetX.exe`
+
+---
+
 ## How to use
 
 ### 1. Download Malwarebytes
